@@ -1,0 +1,2 @@
+https://www.kaggle.com/datasets/nltkdata/vader-lexicon
+https://github.com/cjhutto/vaderSentiment
